@@ -1,11 +1,11 @@
 # Site settings
 author: Xavier Perez
-title: 
+title: Why did I decided to get into Software Engineering?
 header-img: img/home-bg.png
 email: xperez007@gmail.com
 copyright_name: Xavier Perez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Xav - A New Direction
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Perez-png
